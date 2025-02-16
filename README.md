@@ -11,7 +11,7 @@ This is a simple weather application that allows users to get current weather in
 
 ## Screenshots
 
-![Light Mode](sun4.png)
+![Light Mode](sun4.jpg)
 ![Dark Mode](cloud.jpg)
 
 ## Technologies Used
@@ -51,3 +51,19 @@ This app uses the OpenWeatherMap API. You need to replace the `apiKey` variable 
 
 ```js
 const apiKey = "your_api_key_here";
+GitHub Copilot
+Sure, here is the modified README file:
+
+You can get a free API key by signing up at OpenWeatherMap.
+
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgements
+OpenWeatherMap for providing the weather data API.
+Unsplash for the background images.
+About
+This project is an internship task for Indolike.
