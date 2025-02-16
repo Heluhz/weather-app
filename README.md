@@ -11,7 +11,7 @@ This is a simple weather application that allows users to get current weather in
 
 ## Screenshots
 
-![Light Mode](weather.png)
+![Light Mode](sun4.png)
 ![Dark Mode](cloud.jpg)
 
 ## Technologies Used
